@@ -1,4 +1,5 @@
-<img width="1316" alt="image" src="https://github.com/user-attachments/assets/7b41c8aa-8f0b-4839-b610-f60f28ae528b">
+
+<img width="1336" alt="Screenshot 2024-07-13 at 7 45 10 PM" src="https://github.com/user-attachments/assets/d51eb5bc-49e4-4261-9c31-3fcb762eccaa">
 
 Allows upload of audio files up to 5G.
 <br>
