@@ -3,9 +3,11 @@
 
 Allows upload of audio files up to 5G.
 <br>
-Plays on Wavesurfer Offers file size info 
+Plays on Wavesurfer
 <br>
-ffers server stats and link to php.ini
+Offers file size info 
+<br>
+Offers server stats and link to php.ini
 <br>
 <br>
 PHP
