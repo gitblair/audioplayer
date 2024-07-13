@@ -1,0 +1,13 @@
+# .htaccess file for setting PHP configuration values
+
+# Increase maximum execution time in seconds
+php_value max_execution_time 3600
+
+# Increase maximum input time
+php_value max_input_time 3600
+
+# Increase maximum upload file size
+php_value upload_max_filesize 6G
+
+# Increase maximum POST size
+php_value post_max_size 6G
